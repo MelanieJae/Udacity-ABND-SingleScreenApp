@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Piano Lessons from Musical Therapy</string>
+    <string name="contact_info">100 Main St.\nLaketown, NY 14831\n(585)555-1212</string>
+    <string name="description">We happily give piano lessons to children of all ages. Our lessons
+        are offered in 15 minute increments so you can learn a little, or a lot with an hour-long
+        lesson. We have qualified instructors that can teach at each level we offer: beginner,
+        intermediate and advanced. Our price per lesson depends on duration (up to and including an
+        hour) and level. Come join us and learn a new skill and creative outlet!</string>
+
+</resources>
